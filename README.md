@@ -1,4 +1,4 @@
-# LinkedIn-Job-Description-WordCloud
+# Web Scraping LinkedIn Job Description WordCloud
 
 ### The Purpose of this project:
 - For my own learning experience
